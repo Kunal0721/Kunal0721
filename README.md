@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Kunal Bamoriya</h1>
+<h1 align="center">Hi , I'm Kunal Bamoriya</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal0721&label=Profile%20views&color=0e75b6&style=flat" alt="kunal0721" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal0721" alt="kunal0721" /></a> </p>
 
-- 🌱 I’m currently learning **Docker and AWS**
+- I’m currently learning **Docker and AWS**
 
-- 💬 Ask me about **Java and Spring Boot**
+- Ask me about **Java and Spring Boot**
 
-- 📫 How to reach me **kunalbamoriya984@gmail.com**
+-  How to reach me **kunalbamoriya984@gmail.com**
 
-- ⚡ Fun fact **Little bit of funny**
+- Fun fact **Little bit of funny**
 
 
 <h3 align="left">Connect with me:</h3>
